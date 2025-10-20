@@ -22,3 +22,9 @@ Screenshoot of my program:
 <img width="1139" height="822" alt="image" src="https://github.com/user-attachments/assets/fe3d8759-76a5-41e4-a877-2de0c319a741" />
 
 <img width="1223" height="881" alt="image" src="https://github.com/user-attachments/assets/02d36a53-0276-447c-bea5-42ea4bcc1e01" />
+
+<img width="768" height="729" alt="image" src="https://github.com/user-attachments/assets/bd0d6b14-b651-4be9-aaac-1cdf98b0eafc" />
+
+<img width="707" height="704" alt="image" src="https://github.com/user-attachments/assets/7714c6c9-bdfb-4a76-ac5d-bf7e222999b5" />
+
+<img width="475" height="134" alt="image" src="https://github.com/user-attachments/assets/bc475277-f2b6-4bff-9ed8-e2410fcad7d6" />
