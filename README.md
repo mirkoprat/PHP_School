@@ -1,7 +1,7 @@
 # PHP_School
 This project, like the others, is for educational purposes. This program, given a file, had to filter by name, surname, class, subject and give the average of the student searched for with the possibility of adding a grade to the archive.
 
-IMPORTANT: like the ohter projects id you want to running my code, you have to put the inter folder into htdcos
+IMPORTANT: like the ohter projects id you want to running my code, you have to put the inter folder into htdcos if you are using xmapp
 
 Screenshoot of my program:
 
